@@ -33,26 +33,37 @@ This project demonstrates *real-time object detection* using the *YOLOv5 (You On
 
 2. Run object detection
    
+   
    For a Image:
+   
    ```bash
    python detect.py --source 'path/to/image.jpg'
    ```
+
+   
    For Webcam:
+   
    ```bash
    python detect.py --source 0
    ```
+
+   
    For a Video File
+   
    ```bash
    python detect.py --source 'video.mp4'
    ```
-
+---
 
 3. Output Demo
-
-1. [Detection on Image](https://drive.google.com/file/d/1QLZrkQl5i2ynpb8MaUJ6YYriRGdLvICV/view?usp=drive_link)
    
-2. [Detection on Video](https://drive.google.com/file/d/1POYTFuh0w5Nh1Uc_0gVwnYuTgKOWVAKf/view?usp=drive_link)
 
-3. [Real-time Detection using Webcam](https://drive.google.com/file/d/1BHEjxlO8u8g5Bv-eRXJ05LxWmPKQdfNK/view?usp=drive_link)
+i. [Detection on Image](https://drive.google.com/file/d/1QLZrkQl5i2ynpb8MaUJ6YYriRGdLvICV/view?usp=drive_link)
+   
+   
+ii. [Detection on Video](https://drive.google.com/file/d/1POYTFuh0w5Nh1Uc_0gVwnYuTgKOWVAKf/view?usp=drive_link)
+
+
+iii. [Real-time Detection using Webcam](https://drive.google.com/file/d/1BHEjxlO8u8g5Bv-eRXJ05LxWmPKQdfNK/view?usp=drive_link)
    
    
